@@ -1,8 +1,7 @@
 compile_cattle_auction_market_lists
 ===================================
 
-Project summary:
-link to thedata.org
+Project summary on the Harvard Dataverse Network: [10.7910/DVN/28209](http://dx.doi.org/10.7910/DVN/28209)
 
 The module compile_market.py contains the two functions used to (1) assign markets to a common premises id, and (2) locate the county containing each premises.
 The purpose of this repository is to disclose the methods used, rather than create a stand-alone application.
